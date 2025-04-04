@@ -1,8 +1,10 @@
 export default function Home() {
   return (
     <div>
-      <h1>欢迎来到公寓管理网站</h1>
-      <p>这里是你管理公寓事务的地方。</p>
+      <h1>Welcome to the Apartment Management website</h1>
+      <p>This is the most convenient place for rental management.</p>
+      <img src="/building.jpg" alt="apartment building" width="500" />
     </div>
   );
 }
+
